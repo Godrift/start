@@ -1,0 +1,19 @@
+.createAccount{
+    color: white;
+    background-color: rgb(18, 6, 129);
+    border-radius: 9px;
+}
+
+.background {
+    width: 500px;
+    display: inline-block;
+}
+
+.backpic {
+    width: 100%;
+}
+
+.content {
+    width: 500px;
+    display: inline-block;
+}
